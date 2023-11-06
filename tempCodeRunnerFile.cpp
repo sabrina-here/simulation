@@ -1,3 +1,3 @@
-while(q--){
-    //     cout<<rand()%10<<endl;
-    // }
+for(double n:r) cout<<n<<" ";
+
+    // int N = r.size();

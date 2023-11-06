@@ -34,6 +34,14 @@ int main(){
         return 0;
     }
 
+    // for(double n:t) cout<<n<<" ";
+    // cout<<endl;
+    // for(double n:xb) cout<<n<<" ";
+    // cout<<endl;
+    // for(double n:yb) cout<<n<<" ";
+    // cout<<endl;
+
+
     double xf, yf, S, inv;
     cout<<"Fighters Initial position (xf,yf): ";
     cin>>xf>>yf;

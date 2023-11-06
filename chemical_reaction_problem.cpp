@@ -40,10 +40,7 @@ float time_interval;
 float time;
 
 cout<<"Enter values for C1,C2,C3: ";
-cin>>inC1>>inC2>>inC3;
-
-// cout<<"Enter values for the constants K1 & K2: ";
-// cin>>K1>>K2;
+cin>>inC1>>inC2>>inC3;        
 
 cout<<"Enter Time interval: ";
 cin>>time_interval;
